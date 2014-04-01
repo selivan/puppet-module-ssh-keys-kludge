@@ -1,0 +1,7 @@
+Puppet module for managing ssh keys. Works only for existing users.
+
+Made for training, but tested and runnable.
+
+Keys are stored in files directory, key file name = username.
+
+Custom fact is used to detect user's home directory.
