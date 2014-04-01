@@ -1,4 +1,4 @@
-Puppet module for managing ssh keys. Works only for existing users.
+Puppet module for managing ssh keys. Works only for existing users. Convinient for simple cases.
 
 Made for training, but tested and runnable.
 
